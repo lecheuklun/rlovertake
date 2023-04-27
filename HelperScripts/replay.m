@@ -2,8 +2,8 @@
 
 %% load agent 
 
-% load('Agent9-6-2.mat',"saved_agent")
-% load('Agent9-6-4.mat')
+load('Agent9-6-2.mat',"saved_agent")
+% load('Agent9-6-2.mat')
 
 %% run
 

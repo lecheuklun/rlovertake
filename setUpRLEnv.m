@@ -3,7 +3,7 @@
 % Settings
 TsRL=Ts;
 rlStage=2;
-testMode = true;
+testMode = false;
 newNet=true;
 
 numObs=12;

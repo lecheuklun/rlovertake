@@ -49,7 +49,7 @@ function in = localResetFcn(in)
 in = setVariable(in,'e1_initial', 0); 
 in = setVariable(in,'e2_initial', 0); 
 
-in = setVariable(in,'v_o1', 35*1.1); 
+in = setVariable(in,'v_o1', 35); 
 in = setVariable(in,'X_o1', -234.95); 
 in = setVariable(in,'Y_o1', -51.1); 
 in = setVariable(in,'psi_o1', 0.0058); 

@@ -7,7 +7,7 @@ load('Agent9-6-2.mat',"saved_agent")
 
 %% run
 
-setUp_main;
+setUpMain;
 simRL=true;
 agent=saved_agent;
 twoCars=(rlStage==2);
